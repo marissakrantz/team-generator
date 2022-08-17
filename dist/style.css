@@ -1,5 +1,4 @@
-  
-* {
+  * {
     box-sizing: border-box;
 }
 
@@ -8,7 +7,7 @@ body {
 }
 
 .team-heading {
-    background-color: #f8c0c4;
+    background-color: #f78990;
     color: #ffffff;
     text-align: center;
     
@@ -26,7 +25,7 @@ body {
     max-width: 280px;
     width: 90%;
     min-height: 200px;
-    background-color: #b9d8fa;
+    background-color: #a6cdf6;
     color: white;
     display: flex;
     flex-direction: column;
