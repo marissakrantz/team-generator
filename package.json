@@ -1,0 +1,26 @@
+{
+  "name": "week10-challenge",
+  "version": "1.0.0",
+  "description": "Dependencies for employee generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissakrantz/team-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marissakrantz/team-generator/issues"
+  },
+  "homepage": "https://github.com/marissakrantz/team-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.0",
+    "jest": "^28.1.3"
+  }
+}
