@@ -23,9 +23,12 @@
   
 🔍 A node.js application that uses user input from inquirer to populate an index.html file that shows all employees on the team in a card format. The html file is created in the main directory and can be found [here](index.html)  
 
-  
-🎥 The full movie file showing functionality of the application can be found [here]()
-  
+<img src="./assets/employee-gen.gif" alt="Gif of employee generator in action">
+
+🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1Ay2rsbqZdYLlUcZzr6XAMz333rv4MGr6/view)
+
+<img src="./assets/employee-gen-img.jpg" alt="Picture of generated webpage">
+
 ## User Story
   
 ```
